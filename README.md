@@ -1,4 +1,4 @@
-# CASENet: PyTorch Implementation
+# CASENet: PyTorch Implementation on Colab
 
 This is an implementation for paper CASENet: Deep Category-Aware Semantic Edge Detection.
 
