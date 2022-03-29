@@ -1,4 +1,6 @@
-# CaseNet-
+# CASENet: PyTorch Implementation
+
+This is an implementation for paper CASENet: Deep Category-Aware Semantic Edge Detection.
 
 ## HOW TO RUN THE PROJECT
 
